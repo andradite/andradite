@@ -3,7 +3,7 @@ layout: index
 ---
 **Andradite.rb (airb)** features a 3-part ***"trimester"*** learning style that encourages the newcomers using the program to develop methods of study and practice that will help them to develop and create any type of application they wish. The program is designed to treat prospective coders as students to be taught and trained, and also offers plenty of hand-on and real life application for important programming concepts. The program has several tracks that are setup to help new coders learn exactly what they need to know to start developing the type of content that they want.
 
-##First Trimester - Learning the basics of code with Ruby
+#First Trimester - Learning the basics of code with Ruby
 **The first section of airb is designed to teach absolute newbies the basics of programming.**
 
 It will include a portion of the history of programming as well as basic programming concepts that apply to programming languages in general. It will then teach the specifics of Ruby and offer a comparison to other common languages. After this section the students should know basic programming constructs and be able to build and run basic Ruby programs.
